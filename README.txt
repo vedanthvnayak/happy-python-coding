@@ -1,5 +1,5 @@
 # this repo contain the python code or problems which are repeatedly appears in IT company interviews.
------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 ## steps or flow to folow
   1.each folder will contain two files(text and .py)
   2.read the problem from text file and try to find the solution
