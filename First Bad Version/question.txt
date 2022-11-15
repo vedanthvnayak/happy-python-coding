@@ -28,3 +28,7 @@ def isBadVersion(version):
         return True
     else:
         return False
+
+
+#try to solve without seeing solution
+#happy coding 😊 
